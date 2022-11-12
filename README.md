@@ -1,7 +1,7 @@
 # <img src="https://user-images.githubusercontent.com/83454633/201485914-d4915fe8-0286-4fa5-bfad-713e9a9a86d9.png" width="22"> Shkolo
 **Digital Transformation of Schools in Bulgaria**
 
-Software Modeling and Analysis Project
+Software Modeling and Analysis Proje
 
 **Model Diagrams:**
 
