@@ -1,0 +1,486 @@
+﻿-- TEACHER
+
+INSERT INTO TEACHER(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, PHONE, EMAIL, SUBJECT_ID, SCHOOL_ID)
+VALUES('ivana_ivanova', 'ivanova_password', 'Ивана', 'Христова', 'Иванова', 'F', '0889777111', 'ivana_ivanova@gmail.com', 1, 1)
+
+INSERT INTO TEACHER(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, PHONE, EMAIL, SUBJECT_ID, SCHOOL_ID)
+VALUES('margarita_popova', 'popova_password', 'Маргарита', 'Константинова', 'Попова', 'F', '0899245678', 'margarita_popova@gmail.com', 1, 1)
+
+INSERT INTO TEACHER(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, PHONE, EMAIL, SUBJECT_ID, SCHOOL_ID)
+VALUES('georgi_konstantinov', 'konstantinov_password', 'Георги', 'Миленов', 'Константинов', 'M', '0888666745', 'georgi_konstantinov@gmail.com', 1, 1)
+
+INSERT INTO TEACHER(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, PHONE, EMAIL, SUBJECT_ID, SCHOOL_ID)
+VALUES('svetla_koleva', 'koleva_password', 'Светла', 'Петрова', 'Колева', 'F', '0899222333', 'svetla_koleva@abv.bg', 2, 1)
+
+INSERT INTO TEACHER(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, PHONE, EMAIL, SUBJECT_ID, SCHOOL_ID)
+VALUES('rosen_petkov', 'petkov_password', 'Росен', 'Филипов', 'Петков', 'M', '0866888999', 'rosen_petkov@gmail.com', 2, 1)
+
+INSERT INTO TEACHER(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, PHONE, EMAIL, SUBJECT_ID, SCHOOL_ID)
+VALUES('teodor_ivanov', 'ivanov_password', 'Теодор', 'Живков', 'Иванов', 'M', '0866777222', 'teodor_ivanov@abv.bg', 3, 1)
+
+INSERT INTO TEACHER(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, PHONE, EMAIL, SUBJECT_ID, SCHOOL_ID)
+VALUES('valentina_ivanova', 'ivanova_password', 'Валентина', 'Тодорова', 'Иванова', 'F', '0896444333', 'valentina_ivanova@abv.bg', 3, 1)
+
+INSERT INTO TEACHER(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, PHONE, EMAIL, SUBJECT_ID, SCHOOL_ID)
+VALUES('martina_martinova', 'martinova_password', 'Мартина', 'Георгиева', 'Мартинова', 'F', '0897123444', 'martina_martinova@abv.bg', 4, 1)
+
+INSERT INTO TEACHER(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, PHONE, EMAIL, SUBJECT_ID, SCHOOL_ID)
+VALUES('hristo_todorov', 'todorov_password', 'Христо', 'Георгиев', 'Тодоров', 'M', '0899654177', 'hristo_todorov@abv.bg', 5, 1)
+
+INSERT INTO TEACHER(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, PHONE, EMAIL, SUBJECT_ID, SCHOOL_ID)
+VALUES('kristina_ruseva', 'ruseva_password', 'Кристина', 'Петрова', 'Русева', 'F', '0896123778', 'kristina_ruseva@abv.bg', 6, 1)
+
+INSERT INTO TEACHER(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, PHONE, EMAIL, SUBJECT_ID, SCHOOL_ID)
+VALUES('simeon_simeonov', 'simeonov_password', 'Симеон', 'Петков', 'Симеонов', 'M', '0883455799', 'simeon_simeonov@gmail.com', 7, 1)
+
+INSERT INTO TEACHER(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, PHONE, EMAIL, SUBJECT_ID, SCHOOL_ID)
+VALUES('kaloyan_hristov', 'hristov_password', 'Калоян', 'Божидаров', 'Христов', 'M', '0885777989', 'kaloyan_hristov@abv.bg', 8, 1)
+
+INSERT INTO TEACHER(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, PHONE, EMAIL, SUBJECT_ID, SCHOOL_ID)
+VALUES('marina_ruseva', 'ruseva_password', 'Марина', 'Георгиева', 'Русева', 'F', '0895123123', 'marina_ruseva@abv.bg', 9, 1)
+
+INSERT INTO TEACHER(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, PHONE, EMAIL, SUBJECT_ID, SCHOOL_ID)
+VALUES('petya_ivanova', 'ivanova_password', 'Петя', 'Тодорова', 'Иванова', 'F', '0888444878', 'petya_ivanova@abv.bg', 10, 1)
+
+INSERT INTO TEACHER(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, PHONE, EMAIL, SUBJECT_ID, SCHOOL_ID)
+VALUES('teodor_milenov', 'milenov_password', 'Теодор', 'Петров', 'Миленов', 'M', '0899000123', 'teodor_milenov@gmail.com', 11, 1)
+
+INSERT INTO TEACHER(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, PHONE, EMAIL, SUBJECT_ID, SCHOOL_ID)
+VALUES('stoyan_konstantinov', 'konstantinov_password', 'Стоян', 'Мартинов', 'Константинов', 'M', '0899444666', 'stoyan_konstantinov@gmail.com', 12, 1)
+
+INSERT INTO TEACHER(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, PHONE, EMAIL, SUBJECT_ID, SCHOOL_ID)
+VALUES('plamena_popova', 'popova_password', 'Пламена', 'Живкова', 'Попова', 'F', '0877666333', 'plamena_popova@gmail.com', 13, 1)
+
+INSERT INTO TEACHER(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, PHONE, EMAIL, SUBJECT_ID, SCHOOL_ID)
+VALUES('valentin_georgiev', 'georgiev_password', 'Валентин', 'Спасов', 'Георгиев', 'M', '0899456732', 'valentin_georgiev@gmail.com', 14, 1)
+
+
+-- LESSON
+
+INSERT INTO LESSON([DATE], START_TIME, END_TIME, TEACHER_ID)
+VALUES(CONVERT(DATE, '21-10-2022', 105), CONVERT(TIME, '7:30'), CONVERT(TIME, '8:10'), 1)
+
+INSERT INTO LESSON([DATE], START_TIME, END_TIME, TEACHER_ID)
+VALUES(CONVERT(DATE, '21-10-2022', 105), CONVERT(TIME, '7:30'), CONVERT(TIME, '8:10'), 11)
+
+INSERT INTO LESSON([DATE], START_TIME, END_TIME, TEACHER_ID)
+VALUES(CONVERT(DATE, '21-10-2022', 105), CONVERT(TIME, '9:10'), CONVERT(TIME, '9:50'), 12)
+
+INSERT INTO LESSON([DATE], START_TIME, END_TIME, TEACHER_ID)
+VALUES(CONVERT(DATE, '24-10-2022', 105), CONVERT(TIME, '10:00'), CONVERT(TIME, '10:40'), 2)
+
+INSERT INTO LESSON([DATE], START_TIME, END_TIME, TEACHER_ID)
+VALUES(CONVERT(DATE, '24-10-2022', 105), CONVERT(TIME, '10:00'), CONVERT(TIME, '10:40'), 3)
+
+INSERT INTO LESSON([DATE], START_TIME, END_TIME, TEACHER_ID)
+VALUES(CONVERT(DATE, '24-10-2022', 105), CONVERT(TIME, '11:00'), CONVERT(TIME, '11:40'), 4)
+
+INSERT INTO LESSON([DATE], START_TIME, END_TIME, TEACHER_ID)
+VALUES(CONVERT(DATE, '24-10-2022', 105), CONVERT(TIME, '11:00'), CONVERT(TIME, '11:40'), 9)
+
+INSERT INTO LESSON([DATE], START_TIME, END_TIME, TEACHER_ID)
+VALUES(CONVERT(DATE, '25-10-2022', 105), CONVERT(TIME, '10:00'), CONVERT(TIME, '10:40'), 10)
+
+INSERT INTO LESSON([DATE], START_TIME, END_TIME, TEACHER_ID)
+VALUES(CONVERT(DATE, '25-10-2022', 105), CONVERT(TIME, '10:00'), CONVERT(TIME, '10:40'), 13)
+
+INSERT INTO LESSON([DATE], START_TIME, END_TIME, TEACHER_ID)
+VALUES(CONVERT(DATE, '25-10-2022', 105), CONVERT(TIME, '7:30'), CONVERT(TIME, '8:10'), 6)
+
+INSERT INTO LESSON([DATE], START_TIME, END_TIME, TEACHER_ID)
+VALUES(CONVERT(DATE, '25-10-2022', 105), CONVERT(TIME, '9:10'), CONVERT(TIME, '9:50'), 12)
+
+INSERT INTO LESSON([DATE], START_TIME, END_TIME, TEACHER_ID)
+VALUES(CONVERT(DATE, '26-10-2022', 105), CONVERT(TIME, '7:30'), CONVERT(TIME, '8:10'), 8)
+
+INSERT INTO LESSON([DATE], START_TIME, END_TIME, TEACHER_ID)
+VALUES(CONVERT(DATE, '26-10-2022', 105), CONVERT(TIME, '7:30'), CONVERT(TIME, '8:10'), 16)
+
+
+-- CLASS
+
+INSERT INTO CLASS(CLASS_NUMBER, CLASS_LETTER, SCHOOL_ID, TEACHER_ID)
+VALUES(5, 'А', 1, 1)
+
+INSERT INTO CLASS(CLASS_NUMBER, CLASS_LETTER, SCHOOL_ID, TEACHER_ID)
+VALUES(6, 'А', 1, 7)
+
+INSERT INTO CLASS(CLASS_NUMBER, CLASS_LETTER, SCHOOL_ID, TEACHER_ID)
+VALUES(7, 'А', 1, 12)
+
+INSERT INTO CLASS(CLASS_NUMBER, CLASS_LETTER, SCHOOL_ID, TEACHER_ID)
+VALUES(8, 'А', 1, 2)
+
+INSERT INTO CLASS(CLASS_NUMBER, CLASS_LETTER, SCHOOL_ID, TEACHER_ID)
+VALUES(8, 'Б', 1, 17)
+
+INSERT INTO CLASS(CLASS_NUMBER, CLASS_LETTER, SCHOOL_ID, TEACHER_ID)
+VALUES(9, 'А', 1, 4)
+
+INSERT INTO CLASS(CLASS_NUMBER, CLASS_LETTER, SCHOOL_ID, TEACHER_ID)
+VALUES(9, 'Б', 1, 18)
+
+INSERT INTO CLASS(CLASS_NUMBER, CLASS_LETTER, SCHOOL_ID, TEACHER_ID)
+VALUES(10, 'А', 1, 10)
+
+INSERT INTO CLASS(CLASS_NUMBER, CLASS_LETTER, SCHOOL_ID, TEACHER_ID)
+VALUES(10, 'Б', 1, 13)
+
+INSERT INTO CLASS(CLASS_NUMBER, CLASS_LETTER, SCHOOL_ID, TEACHER_ID)
+VALUES(11, 'А', 1, 6)
+
+INSERT INTO CLASS(CLASS_NUMBER, CLASS_LETTER, SCHOOL_ID, TEACHER_ID)
+VALUES(11, 'Б', 1, 9)
+
+INSERT INTO CLASS(CLASS_NUMBER, CLASS_LETTER, SCHOOL_ID, TEACHER_ID)
+VALUES(12, 'А', 1, 8)
+
+INSERT INTO CLASS(CLASS_NUMBER, CLASS_LETTER, SCHOOL_ID, TEACHER_ID)
+VALUES(12, 'Б', 1, 5)
+
+
+-- STUDENT
+
+-- 5А
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('aleks_ivanov', 'ivanov_password', 'Алекс', 'Мартинов', 'Иванов', 'M', CONVERT(DATE, '20-03-2011', 105), 'София', '0889777222', 'aleks_ivanov@gmail.com', 1)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('georgi_stoyanov', 'stoyanov_password', 'Георги', 'Петков', 'Стоянов', 'M', CONVERT(DATE, '14-04-2011', 105), 'София', '0899111458', 'georgi_stoyanov@gmail.com', 1)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('iva_todorova', 'todorova_password', 'Ива', 'Петрова', 'Тодорова', 'F', CONVERT(DATE, '07-09-2011', 105), 'София', '0888222348', 'iva_todorova@gmail.com', 1)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('svetlin_popov', 'popov_password', 'Светлин', 'Иванов', 'Попов', 'M', CONVERT(DATE, '12-07-2011', 105), 'София', '0885111040', NULL, 1)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('svetla_petkova', 'petkova_password', 'Светла', 'Петрова', 'Петкова', 'F', CONVERT(DATE, '23-09-2011', 105), 'София', '0883444777', 'svetla_petkova@gmail.com', 1)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('martin_kostov', 'kostov_password', 'Мартин', 'Иванов', 'Костов', 'M', CONVERT(DATE, '06-07-2011', 105), 'София', '0899222155', 'martin_kostov@gmail.com', 1)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('gergana_nikolova', 'nikolova_password', 'Гергана', 'Спасова', 'Николова', 'F', CONVERT(DATE, '03-04-2011', 105), 'София', '0888567444', 'gergana_nikolova@gmail.com', 1)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('hristo_hristov', 'hristov_password', 'Христо', 'Иванов', 'Христов', 'M', CONVERT(DATE, '14-07-2006', 105), 'София', NULL, NULL, 1)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('gergana_veleva', 'veleva_password', 'Гергана', 'Константинова', 'Велева', 'F', CONVERT(DATE, '15-07-2011', 105), 'София', '0882333444', 'gergana_veleva@gmail.com', 1)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('martina_dimova', 'dimova_password', 'Мартина', 'Петрова', 'Димова', 'F', CONVERT(DATE, '15-07-2011', 105), 'София', NULL, 'martina_dimova@gmail.com', 1)
+
+
+-- 6А
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('dimitar_popov', 'popov_password', 'Димитър', 'Иванов', 'Попов', 'M', CONVERT(DATE, '30-06-2010', 105), 'София', NULL, NULL, 2)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('mihail_petkov', 'petkov_password', 'Михаил', 'Тодоров', 'Петков', 'M', CONVERT(DATE, '15-07-2010', 105), 'София', '0866111789', NULL, 2)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('dimitar_rusev', 'rusev_password', 'Димитър', 'Стефанов', 'Русев', 'M', CONVERT(DATE, '14-05-2010', 105), 'София', '0833777899', NULL, 2)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('ivana_ivanova', 'ivanova_password', 'Ивана', 'Костадинова', 'Иванов', 'F', CONVERT(DATE, '15-09-2010', 105), 'София', '0889105103', 'ivana_ivanova@gmail.com', 2)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('kalin_todorov', 'todorov_password', 'Калин', 'Петров', 'Тодоров', 'M', CONVERT(DATE, '09-11-2010', 105), 'София', '0899123678', NULL, 2)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('mihail_velichkov', 'velichkov_password', 'Михаил', 'Симеонов', 'Величков', 'M', CONVERT(DATE, '18-09-2010', 105), 'София', NULL, NULL, 2)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('todor_todorov', 'todorov_password', 'Тодор', 'Николаев', 'Тодоров', 'M', CONVERT(DATE, '06-12-2010', 105), 'Пловдив', '0844888922', 'todor_todorov@gmail.com', 2)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('aleksandra_koleva', 'koleva_password', 'Александра', 'Петрова', 'Колева', 'F', CONVERT(DATE, '01-06-2010', 105), 'Пловдив', '0899122677', 'aleksandra_koleva@gmail.com', 2)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('petya_koleva', 'koleva_password', 'Петя', 'Миленова', 'Колева', 'F', CONVERT(DATE, '15-12-2010', 105), 'София', '0888123777', 'petya_koleva@gmail.com', 2)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('mihaela_vasileva', 'vasileva_password', 'Михаела', 'Симеонова', 'Василева', 'F', CONVERT(DATE, '18-09-2010', 105), 'София', NULL, NULL, 2)
+
+
+-- 7А
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('marina_ivanova', 'ivanova_password', 'Марина', 'Стоянова', 'Иванова', 'F', CONVERT(DATE, '21-10-2009', 105), 'София', '0888122444', 'marina_ivanova@gmail.com', 3)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('georgi_petrov', 'petrov_password', 'Георги', 'Стоянов', 'Петров', 'M', CONVERT(DATE, '21-10-2009', 105), 'София', '0888333555', 'georgi_petrov@gmail.com', 3)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('ivan_popov', 'popov_password', 'Иван', 'Костадинов', 'Попов', 'M', CONVERT(DATE, '26-12-2009', 105), 'София', '0884777999', 'ivan_popov@gmail.com', 3)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('mihaela_moneva', 'moneva_password', 'Михаела', 'Петрова', 'Монева', 'F', CONVERT(DATE, '18-09-2009', 105), 'София', NULL, 'mihaela_moneva@gmail.com', 3)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('hristo_ivanov', 'ivanov_password', 'Христо', 'Костадинов', 'Иванов', 'M', CONVERT(DATE, '13-12-2009', 105), 'София', '0888444666', NULL, 3)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('milen_dimitrov', 'dimitrov_password', 'Милен', 'Иванов', 'Димитров', 'M', CONVERT(DATE, '07-12-2009', 105), 'София', '0882777999', NULL, 3)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('stefan_stefanov', 'stefanov_password', 'Стефан', 'Иванов', 'Стефанов', 'M', CONVERT(DATE, '18-07-2009', 105), 'София', '0899111555', NULL, 3)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('samuil_ivanov', 'ivanov_password', 'Самуил', 'Иванов', 'Иванов', 'M', CONVERT(DATE, '18-05-2009', 105), 'София', '0891555111', NULL, 3)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('stoyan_stefanov', 'stefanov_password', 'Стоян', 'Иванов', 'Стефанов', 'M', CONVERT(DATE, '12-07-2009', 105), 'София', '0888111000', NULL, 3)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('kalina_todorova', 'todorova_password', 'Калина', 'Петрова', 'Тодорова', 'F', CONVERT(DATE, '24-05-2009', 105), 'София', NULL, NULL, 3)
+
+
+-- 8А
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('valentina_popova', 'popova_password', 'Валентина', 'Николаева', 'Попова', 'F', CONVERT(DATE, '13-03-2008', 105), 'София', NULL, NULL, 4)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('svetlana_peeva', 'peeva_password', 'Светлана', 'Николаева', 'Пеева', 'F', CONVERT(DATE, '23-03-2008', 105), 'София', NULL, NULL, 4)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('martin_ganchev', 'ganchev_password', 'Мартин', 'Петров', 'Ганчев', 'M', CONVERT(DATE, '10-03-2008', 105), 'София', '0888111808', NULL, 4)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('mariela_georgieva', 'georgieva_password', 'Мариела', 'Петрова', 'Георгиева', 'F', CONVERT(DATE, '18-03-2008', 105), 'София', '0899222455', NULL, 4)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('monika_jovkova', 'jovkova_password', 'Моника', 'Живкова', 'Йовкова', 'F', CONVERT(DATE, '09-12-2008', 105), 'София', '0889111566', 'monika_jovkova@gmail.com', 4)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('rosen_filipov', 'filipov_password', 'Росен', 'Константинов', 'Филипов', 'M', CONVERT(DATE, '09-04-2008', 105), 'София', '0882333666', 'rosen_filipov@gmail.com', 4)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('iva_kostova', 'kostova_password', 'Ива', 'Живкова', 'Костова', 'F', CONVERT(DATE, '14-10-2008', 105), 'София', '0889444222', 'iva_kostova@gmail.com', 4)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('martina_gramatikova', 'gramatikova_password', 'Мартина', 'Георгиева', 'Граматикова', 'F', CONVERT(DATE, '25-08-2008', 105), 'София', NULL, 'martina_gramatikova@gmail.com', 4)
+
+
+-- 8Б
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('aleks_petrov', 'petrov_password', 'Алекс', 'Георгиев', 'Петров', 'M', CONVERT(DATE, '14-08-2008', 105), 'София', '0877666222', 'aleks_petrov@gmail.com', 5)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('stoyan_stoyanov', 'stoyanov_password', 'Стоян', 'Георгиев', 'Стоянов', 'M', CONVERT(DATE, '19-07-2008', 105), 'София', '0822888911', NULL, 5)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('serafim_stoyanov', 'stoyanov_password', 'Серафим', 'Георгиев', 'Стоянов', 'M', CONVERT(DATE, '23-07-2008', 105), 'София', '0822888916', NULL, 5)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('sonya_vasileva', 'vasileva_password', 'Соня', 'Иванова', 'Василева', 'F', CONVERT(DATE, '26-08-2008', 105), 'София', '0822888910', NULL, 5)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('aleksander_petkov', 'petkov_password', 'Александър', 'Василев', 'Петков', 'M', CONVERT(DATE, '14-08-2008', 105), 'София', '0877666722', 'aleksander_petkov@gmail.com', 5)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('filip_filipov', 'filipov_password', 'Филип', 'Василев', 'Филипов', 'M', CONVERT(DATE, '12-07-2008', 105), 'София', '0877644722', 'f_filipov@gmail.com', 5)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('mariya_marinova', 'marinova_password', 'Мария', 'Василева', 'Маринова', 'F', CONVERT(DATE, '12-07-2008', 105), 'София', '0877644799', NULL, 5)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('mariya_kostadinova', 'kostadinova_password', 'Мария', 'Петрова', 'Костадинова', 'F', CONVERT(DATE, '15-07-2008', 105), 'София', '0877640099', NULL, 5)
+
+
+-- 9А
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('aleksis_petrov', 'petrov_password', 'Алексис', 'Георгиев', 'Петров', 'M', CONVERT(DATE, '14-05-2007', 105), 'София', NULL, NULL, 6)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('stanimir_stoev', 'stoev_password', 'Станимир', 'Георгиев', 'Стоев', 'M', CONVERT(DATE, '23-07-2007', 105), 'София', '0822888900', NULL, 6)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('stoyanka_stoyanova', 'stoyanova_password', 'Стоянка', 'Петрова', 'Стоянова', 'F', CONVERT(DATE, '23-07-2007', 105), 'София', '0823388916', NULL, 6)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('sashka_vasileva', 'vasileva_password', 'Сашка', 'Иванова', 'Василева', 'F', CONVERT(DATE, '26-08-2007', 105), 'София', '0822888947', NULL, 6)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('atanas_petkov', 'petkov_password', 'Атанас', 'Василев', 'Петков', 'M', CONVERT(DATE, '14-08-2007', 105), 'София', '0877663333', 'atanas_petkov@gmail.com', 6)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('todor_toshev', 'toshev_password', 'Тодор', 'Василев', 'Тошев', 'M', CONVERT(DATE, '12-07-2007', 105), 'София', '0877640099', 'toshev@gmail.com', 6)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('mimi_marinova', 'marinova_password', 'Мими', 'Василева', 'Маринова', 'F', CONVERT(DATE, '01-07-2007', 105), 'София', '0877600881', NULL, 6)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('martinka_kostadinova', 'kostadinova_password', 'Мартинка', 'Петрова', 'Костадинова', 'F', CONVERT(DATE, '15-03-2007', 105), 'София', '0877640111', NULL, 6)
+
+
+-- 9Б
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('mitko_petrov', 'petrov_password', 'Митко', 'Георгиев', 'Петров', 'M', CONVERT(DATE, '27-05-2007', 105), 'София', NULL, NULL, 7)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('dimitar_kirilov', 'kirilov_password', 'Димитър', 'Стоянов', 'Кирилов', 'M', CONVERT(DATE, '18-06-2007', 105), 'София', '0833888900', NULL, 7)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('pamela_stoyanova', 'stoyanova_password', 'Памела', 'Петрова', 'Стоянова', 'F', CONVERT(DATE, '24-02-2007', 105), 'София', '0823478916', NULL, 7)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('georgi_dochev', 'dochev_password', 'Георги', 'Иванов', 'Дочев', 'M', CONVERT(DATE, '14-08-2007', 105), 'София', '0833488947', NULL, 7)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('atanas_stefanov', 'stefanov_password', 'Атанас', 'Василев', 'Стефанов', 'M', CONVERT(DATE, '14-02-2007', 105), 'София', '0877663234', 'atanas_stefanov@gmail.com', 7)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('tomislav_tashev', 'tashev_password', 'Томислав', 'Василев', 'Ташев', 'M', CONVERT(DATE, '17-09-2007', 105), 'София', '0877640011', 'tashev@gmail.com', 7)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('marinka_marinkova', 'marinkova_password', 'Маринка', 'Василева', 'Маринкова', 'F', CONVERT(DATE, '04-04-2007', 105), 'София', '0877600223', NULL, 7)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('milka_minkova', 'minkova_password', 'Милка', 'Петрова', 'Минкова', 'F', CONVERT(DATE, '17-08-2007', 105), 'София', '0877640891', NULL, 7)
+
+
+-- 10А
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('stanislav_petrov', 'petrov_password', 'Станислав', 'Георгиев', 'Петров', 'M', CONVERT(DATE, '11-05-2006', 105), 'София', NULL, NULL, 8)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('sasho_stoev', 'stoev_password', 'Сашо', 'Георгиев', 'Стоев', 'M', CONVERT(DATE, '12-07-2006', 105), 'София', '0833448900', NULL, 8)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('petka_stoyanova', 'stoyanova_password', 'Петка', 'Петрова', 'Стоянова', 'F', CONVERT(DATE, '13-05-2006', 105), 'София', '0821188916', NULL, 8)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('tsvetanka_vasileva', 'vasileva_password', 'Цветанка', 'Иванова', 'Василева', 'F', CONVERT(DATE, '16-08-2006', 105), 'София', '0822888765', NULL, 8)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('nasko_petkov', 'petkov_password', 'Наско', 'Василев', 'Петков', 'M', CONVERT(DATE, '17-08-2006', 105), 'София', '0824663333', 'nasko_petkov@gmail.com', 8)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('hristo_topchev', 'topchev_password', 'Христо', 'Василев', 'Топчев', 'M', CONVERT(DATE, '11-05-2006', 105), 'София', '0877645599', 'topchev@gmail.com', 8)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('vaska_marinova', 'marinova_password', 'Васка', 'Василева', 'Маринова', 'F', CONVERT(DATE, '01-01-2006', 105), 'София', '0844602381', NULL, 8)
+
+
+-- 10Б
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('marincho_petkov', 'petkov_password', 'Маринчо', 'Георгиев', 'Петков', 'M', CONVERT(DATE, '11-05-2006', 105), 'София', NULL, NULL, 9)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('petko_stanchev', 'stanchev_password', 'Петко', 'Георгиев', 'Станчев', 'M', CONVERT(DATE, '14-07-2006', 105), 'София', '0833558900', NULL, 9)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('dimitrinka_stoyanova', 'stoyanova_password', 'Димитринка', 'Петрова', 'Стоянова', 'F', CONVERT(DATE, '19-05-2006', 105), 'София', '0821122916', NULL, 9)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('dochka_vasileva', 'vasileva_password', 'Дочка', 'Иванова', 'Василева', 'F', CONVERT(DATE, '13-08-2006', 105), 'София', '0822888744', NULL, 9)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('kaloyan_petkov', 'petkov_password', 'Калоян', 'Василев', 'Петков', 'M', CONVERT(DATE, '14-08-2006', 105), 'София', '0877663333', 'kaloyan_petkov@gmail.com', 9)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('jordan_tonchev', 'tonchev_password', 'Йордан', 'Василев', 'Тончев', 'M', CONVERT(DATE, '13-05-2006', 105), 'София', '0872645522', 'tonchev@gmail.com', 9)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('petkana_mavrodieva', 'mavrodieva_password', 'Петкана', 'Василева', 'Мавродиева', 'F', CONVERT(DATE, '06-01-2006', 105), 'София', '0844644481', NULL, 9)
+
+
+-- 11А
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('dancho_petrov', 'petrov_password', 'Данчо', 'Георгиев', 'Петров', 'M', CONVERT(DATE, '18-05-2005', 105), 'София', NULL, NULL, 10)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('kosi_stoev', 'stoev_password', 'Коси', 'Георгиев', 'Стоев', 'M', CONVERT(DATE, '11-07-2005', 105), 'София', '0833448955', NULL, 10)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('mimi_stoyanova', 'stoyanova_password', 'Мими', 'Петрова', 'Стоянова', 'F', CONVERT(DATE, '22-05-2005', 105), 'София', '0823338916', NULL, 10)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('pepi_vasileva', 'vasileva_password', 'Пепи', 'Иванова', 'Василева', 'F', CONVERT(DATE, '26-08-2005', 105), 'София', '0823778765', NULL, 10)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('nikolay_petkov', 'petkov_password', 'Николай', 'Василев', 'Петков', 'M', CONVERT(DATE, '22-08-2005', 105), 'София', '0877763333', 'nikolay_petkov@gmail.com', 10)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('hristiyan_topchev', 'topchev_password', 'Християн', 'Василев', 'Топчев', 'M', CONVERT(DATE, '15-05-2005', 105), 'София', '0822645522', 'topchev@gmail.com', 10)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('konstantina_marinova', 'marinova_password', 'Константина', 'Василева', 'Маринова', 'F', CONVERT(DATE, '29-01-2005', 105), 'София', '0844677781', NULL, 10)
+
+
+-- 11Б
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('dimo_petrov', 'petrov_password', 'Димо', 'Георгиев', 'Петров', 'M', CONVERT(DATE, '23-05-2005', 105), 'София', NULL, NULL, 11)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('kosi_stanchev', 'stanchev_password', 'Коси', 'Георгиев', 'Станчев', 'M', CONVERT(DATE, '21-07-2005', 105), 'София', '0877778955', NULL, 11)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('mimi_bogdanova', 'bogdanova_password', 'Мими', 'Петрова', 'Богданова', 'F', CONVERT(DATE, '27-05-2005', 105), 'София', '0824448921', NULL, 11)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('kristyana_vasileva', 'vasileva_password', 'Кристияна', 'Иванова', 'Василева', 'F', CONVERT(DATE, '13-08-2005', 105), 'София', '0824448765', NULL, 11)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('nikolay_pashev', 'pashev_password', 'Николай', 'Василев', 'Пашев', 'M', CONVERT(DATE, '23-08-2005', 105), 'София', '0877765566', 'nikolay_pashev@gmail.com', 11)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('hristiyan_todorov', 'todorov_password', 'Християн', 'Василев', 'Тодоров', 'M', CONVERT(DATE, '23-05-2005', 105), 'София', '0844645522', 'todorov@gmail.com', 11)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('kalina_marinova', 'marinova_password', 'Калина', 'Василева', 'Маринова', 'F', CONVERT(DATE, '30-01-2005', 105), 'София', '0866677781', NULL, 11)
+
+
+-- 12А
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('darin_petrov', 'petrov_password', 'Дарин', 'Георгиев', 'Петров', 'M', CONVERT(DATE, '18-05-2004', 105), 'София', NULL, NULL, 12)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('s_stoev', 'stoev_password', 'Станимир', 'Георгиев', 'Стоев', 'M', CONVERT(DATE, '12-07-2004', 105), 'София', '0833440099', NULL, 12)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('militsa_stoyanova', 'stoyanova_password', 'Милица', 'Петрова', 'Стоянова', 'F', CONVERT(DATE, '24-05-2004', 105), 'София', '0823338922', NULL, 12)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('penka_vasileva', 'vasileva_password', 'Пенка', 'Иванова', 'Василева', 'F', CONVERT(DATE, '17-08-2004', 105), 'София', '0833378765', NULL, 12)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('nikola_petkov', 'petkov_password', 'Никола', 'Василев', 'Петков', 'M', CONVERT(DATE, '28-08-2004', 105), 'София', '0877744433', 'nikola_petkov@gmail.com', 12)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('kris_topchev', 'topchev_password', 'Крис', 'Василев', 'Топчев', 'M', CONVERT(DATE, '19-05-2004', 105), 'София', '0888995522', 'topchev@gmail.com', 12)
+
+
+-- 12Б
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('dimcho_petrov', 'petrov_password', 'Димчо', 'Георгиев', 'Петров', 'M', CONVERT(DATE, '17-05-2004', 105), 'София', NULL, NULL, 13)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('pesho_stoev', 'stoev_password', 'Пешо', 'Георгиев', 'Стоев', 'M', CONVERT(DATE, '16-07-2004', 105), 'София', '0822770099', NULL, 13)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('martina_stoyanova', 'stoyanova_password', 'Мартина', 'Петрова', 'Стоянова', 'F', CONVERT(DATE, '30-05-2004', 105), 'София', '0823334455', NULL, 13)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('pavlina_vasileva', 'vasileva_password', 'Павлина', 'Иванова', 'Василева', 'F', CONVERT(DATE, '24-08-2004', 105), 'София', '0836668765', NULL, 13)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('niki_petkov', 'petkov_password', 'Ники', 'Симеонов', 'Петков', 'M', CONVERT(DATE, '12-08-2004', 105), 'София', '0822244433', 'niki_petkov@gmail.com', 13)
+
+INSERT INTO STUDENT(USERNAME, [PASSWORD], FIRST_NAME, MIDDLE_NAME, LAST_NAME, GENDER, BIRTH_DATE, BIRTH_PLACE, PHONE, EMAIL, CLASS_ID)
+VALUES('kosi_tonchev', 'tonchev_password', 'Коси', 'Василев', 'Тончев', 'M', CONVERT(DATE, '23-05-2004', 105), 'София', '0844555522', 'k_tonchev@gmail.com', 13)
