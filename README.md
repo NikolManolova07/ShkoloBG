@@ -23,4 +23,6 @@ Software Modeling and Analysis Project
 
 - Visualizations of Grades & Absences.
 
+<img src="https://user-images.githubusercontent.com/83454633/201486074-b8c8ee76-ad9b-46d1-9ffd-fc0ba6124ef7.jpg" width="800">
 
+<img src="https://user-images.githubusercontent.com/83454633/201486245-0ac3c852-b144-4d28-bcee-dce804e541b4.jpg" width="800">
