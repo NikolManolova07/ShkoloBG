@@ -8,7 +8,7 @@ Software Modeling and Analysis Project
 - Conceptual Model – Chen's Database Notation;
 - Logical Model – Crow's Foot Database Notation;
 - Physical Model – UML Database Notation;
-- Data Warehouse Model – UML Database Notation, Snowflake & Star Schema
+- Data Warehouse Model – UML Database Notation, Snowflake & Star Schema.
 
 
 **Database:**
